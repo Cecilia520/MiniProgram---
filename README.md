@@ -1,2 +1,2 @@
 # MiniProgram---
-This is my first Wechart program by learn from orthers!
+这是通过微信小程序实现的微天气，主要是用来学习如何调用网上的一些天气API！
